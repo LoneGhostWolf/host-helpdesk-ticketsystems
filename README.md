@@ -1,4 +1,4 @@
-# host-helpdesk-ticketsystems
+<!--# host-helpdesk-ticketsystems-->
 
 <h2>Installing Peppermint in the Linux VM</h2>
 <img src="https://i.imgur.com/hSXPcqt.png" height="65%" width="65%" alt="blank"/>
