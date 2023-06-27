@@ -5,10 +5,6 @@
 
 <h2>Description</h2>
 <p>
- In my 2023 IT home lab, I installed Peppermint as a ticketing system and get myself familiar with what would a help desk technician look like. Creating tickets,
- leaving a note, and adding clients' information. Linode is an IT Linux cloud company and I use their service to run my personal Peppermint.
-
-</p>
-
-
+ In my 2023 IT home lab, I installed Peppermint as a ticketing system and get myself familiar with this tool of how a Helpdesk Technician's work looks like. I learned to create and close a ticket, write a note on the incident case, and add a client to the internal database. Linode is an IT Linux cloud company and I use their service to run the online ticketing system on the website. 
+</
 
