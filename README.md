@@ -1,6 +1,6 @@
 <!--# host-helpdesk-ticketsystems-->
 
-<h2>Installing Peppermint in the Linux VM</h2>
+<h2>Installing Peppermint with LinodeVM</h2>
 <img src="https://i.imgur.com/hSXPcqt.png" height="65%" width="65%" alt="blank"/>
 
 <h2>Description</h2>
