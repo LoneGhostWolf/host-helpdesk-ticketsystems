@@ -19,4 +19,15 @@ During the installation, I opened the LISH console and used sudo apt install doc
 
 <br>
 
+
 <img src="https://i.imgur.com/hui6g4Z.png" height="65%" width="65%" alt="blank"/>
+<br>
+<img src="https://i.imgur.com/3WLY5Z3.png" height="65%" width="65%" alt="blank"/>
+<br>
+
+
+<img src="https://i.imgur.com/dy9mr4h.png" height="65%" width="65%" alt="blank"/>
+<br>
+
+
+
