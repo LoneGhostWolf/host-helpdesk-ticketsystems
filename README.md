@@ -31,13 +31,20 @@ During the installation, I opened the LISH console and used sudo apt install doc
 </p>
 <br>
 
-
+<h2>Docker-compose.yml Script</h2>
 <img src="https://i.imgur.com/hui6g4Z.png" height="65%" width="65%" alt="blank"/>
+<p>
+  This is a bash script with Nano editor.
+</p>
 <br>
+<h2>Internal Users</h2>
 <img src="https://i.imgur.com/3WLY5Z3.png" height="65%" width="65%" alt="blank"/>
+<p>
+In the Internal Users, there is only user and administrator when assigning one of these two roles. I can reset a password as long the user's email address is correct. On the Peppermint homepage, there is no user and must enter with an email address.
+</p>
 <br>
 
-<h2>Ticket Example</h2>
+<h2>Ticket issue Example</h2>
 <img src="https://i.imgur.com/dy9mr4h.png" height="65%" width="65%" alt="blank"/>
 <br>
 
