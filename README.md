@@ -16,7 +16,7 @@ During the installation, I opened the LISH console and used sudo apt install doc
   The Personal Notebook adds quite a nice feature to have. I created a notebook named Daily Logs
 </p>
 <br>
-<img src= "https://i.imgur.com/Ed6nm8h.png" height="65%" width="65%" alt="blank"/>
+
 <br>
 <img src="https://i.imgur.com/EQ9eR9l.png" height="65%" width="65%" alt="blank"/>
 
