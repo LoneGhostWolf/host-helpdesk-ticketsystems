@@ -21,6 +21,7 @@ During the installation, I opened the LISH console and used sudo apt install doc
      <li>nano docker-compose.yml</li>
      <li>docker-compose up -d</li>
    </ul>
+   <img src="https://i.imgur.com/EQ9eR9l.png" height="65%" width="65%" alt="blank"/>
 </p>
 <h2>Personal Notebook</h2>
 <img src="https://i.imgur.com/LkCbocm.png" height="65%" width="65%" alt="blank"/>
