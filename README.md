@@ -20,7 +20,6 @@ During the installation, I opened the LISH console and used sudo apt install doc
      <li>cd peppermint</li>
      <li>nano docker-compose.yml</li>
      <li>docker-compose up -d</li>
-    <li></li>
    </ul>
 </p>
 <br>
@@ -38,7 +37,7 @@ During the installation, I opened the LISH console and used sudo apt install doc
 <img src="https://i.imgur.com/3WLY5Z3.png" height="65%" width="65%" alt="blank"/>
 <br>
 
-
+<h2>Ticket Example</h2>
 <img src="https://i.imgur.com/dy9mr4h.png" height="65%" width="65%" alt="blank"/>
 <br>
 
