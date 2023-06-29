@@ -13,10 +13,8 @@ During the installation, I opened the LISH console and used sudo apt install doc
 <h2>Personal Notebook</h2>
 <img src="https://i.imgur.com/LkCbocm.png" height="65%" width="65%" alt="blank"/>
 <p>
-  The Personal Notebook adds quite a nice feature to have. I created a notebook named Daily Logs
+  The Personal Notebook adds quite a nice feature to have. I created a notebook named Daily Logs.
 </p>
-<br>
-
 <br>
 
 
