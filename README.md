@@ -38,6 +38,8 @@ During the installation, I opened the LISH console and used sudo apt install doc
 <p>
 In the Internal Users, there is only a user and administrator when assigning one of these two roles. 
 I can reset a password as long the user's email address is correct. On the Peppermint homepage, there is no user, and must enter an email address.
+
+https://youtu.be/h_RZMDm7pr4
 </p>
 
 <h2>Ticket issue Example</h2>
