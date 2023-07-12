@@ -24,7 +24,10 @@ During the installation, I opened the LISH console and used sudo apt install doc
    <img src="https://i.imgur.com/EQ9eR9l.png" height="65%" width="65%" alt="blank"/>
 </p>
 <h2>Personal Notebook</h2>
-<img src="https://i.imgur.com/LkCbocm.png" height="65%" width="65%" alt="blank"/>
+<img src="https://i.imgur.com/c31QhSL.png" height="65%" width="65%" alt="blank"/>
+<br>
+<img src="https://i.imgur.com/LXN4jAu.png" height="65%" width="65%" alt="blank"/>
+
 <p>
   The Personal Notebook adds quite a nice feature to have. I created a notebook named Daily Logs.
 </p>
@@ -47,6 +50,11 @@ I can reset a password if the user's email address is correct. On the Peppermint
 The client as you see is a list of organization names along with email address, job title, and phone number. There are current groups that exist.
 </p>
 
+
+<h2>Tickets</h2>
+<p>This is where some tickets show with one of the three priority tags: low, normal, and high. Depending on how long and what kind of technical issue is, I would go through one ticket at a time and look at the description and the picture.</p>
+
+<img src="https://i.imgur.com/vY4gnhT.png" height="65%" width="65%" alt="blank"/>
 
 <h2>Ticket issue Example</h2>
 <h1>Ticket #1</h1>
