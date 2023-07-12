@@ -10,6 +10,11 @@
 During the installation, I opened the LISH console and used sudo apt install docker.io in the Ubuntu 20.0.4 LTS. The docker.io compose helps run the service. Then, I made a file directory and add docker-compose.yml with the nano editor. Also, I went to the founder's GitHub page and copied and paste the code in the yml file. This contains the default administrator port number, and passcode when I log in with my credential. I execute the program and it creates containers that construct the Peppermint page as you can see in the first screenshot. Once it finishes, I grabbed the reverse DNS address with the port number from the Network tab. I log in to the administrator and the password.
 </p>
 
+<br>
+<h1>Dashboard</h1>
+<img src="https://i.imgur.com/r5ME02c.png" height="65%" width="65%" alt="blank"/>
+<br>
+
 <h1>Linode Lish Console</h1>
 <img src="https://i.imgur.com/hui6g4Z.png" height="65%" width="65%" alt="blank"/>
 <p>
@@ -47,22 +52,31 @@ I can reset a password if the user's email address is correct. On the Peppermint
 <h1>Clients</h1>
 <img src="https://i.imgur.com/KrR6a8v.png" height="65%" width="65%" alt="blank"/>
 <p>
-The client as you see is a list of organization names along with email address, job title, and phone number. There are current groups that exist.
+ Here as you can see is a list of organization names along with email addresses, job titles, and phone numbers. 
 </p>
 
+<img src="https://i.imgur.com/tr3bM3L.png" height="65%" width="65%" alt="blank"/>
 
 <h1>Tickets</h1>
 <p>This is where some tickets show with one of the three priority tags: low, normal, and high. Depending on how long and what kind of technical issue is, I would go through one ticket at a time and look at the description and the picture.</p>
 
 <img src="https://i.imgur.com/vY4gnhT.png" height="65%" width="65%" alt="blank"/>
 
-<h2>Ticket issue Example</h2>
+<h2>Ticket issues</h2>
 <h3>Ticket #1</h3>
 <img src="https://i.imgur.com/dy9mr4h.png" height="65%" width="65%" alt="blank"/>
 <br>
 
 <h3>Ticket #2</h3>
-<img src="https://i.imgur.com/dy9mr4h.png" height="65%" width="65%" alt="blank"/>
+<img src="https://i.imgur.com/QA2mEI7.png" height="65%" width="65%" alt="blank"/>
+<br>
+
+<h3>Ticket #3</h3>
+<img src="https://i.imgur.com/mUZL1Qb.png" height="65%" width="65%" alt="blank"/>
+<br>
+
+<h3>Ticket #4</h3>
+<img src="https://i.imgur.com/hgpDxfj.png" height="65%" width="65%" alt="blank"/>
 <br>
 
 <h3>Youtube</h3>
