@@ -40,12 +40,12 @@ In the Internal Users, there is only a user and administrator when assigning one
 I can reset a password as long the user's email address is correct. On the Peppermint homepage, there is no user, and must enter an email address.
 </p>
 
-<h3>Youtube</h3>
-https://youtu.be/h_RZMDm7pr4
 
 <h2>Ticket issue Example</h2>
 <img src="https://i.imgur.com/dy9mr4h.png" height="65%" width="65%" alt="blank"/>
 <br>
 
+<h3>Youtube</h3>
+https://youtu.be/h_RZMDm7pr4
 
 
